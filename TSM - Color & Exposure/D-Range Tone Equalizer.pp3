@@ -1,4 +1,5 @@
 [Exposure]
+HighlightCompr=10
 HistogramMatching=true
 ClampOOG=true
 
