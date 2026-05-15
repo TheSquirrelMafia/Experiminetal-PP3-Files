@@ -292,7 +292,7 @@ colorspace=acesp1
 rolloff=true
 
 [ToneEqualizer]
-Enabled=true
+Enabled=false
 Band0=0
 Band1=0
 Band2=3
