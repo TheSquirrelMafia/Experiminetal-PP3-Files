@@ -1,6 +1,0 @@
-[Directional Pyramid Denoising]
-Method=RGB
-LMethod=CUR
-C2Method=AUTO
-SMethod=shal
-Gamma=2
